@@ -1,0 +1,10 @@
+.header-container{
+  
+    background-image: url(../../../images/Mask\ Group\ 2.png);
+    background-size: cover;
+}
+.header-container::after {
+    
+    background-color: #052575;
+   
+}

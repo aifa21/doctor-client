@@ -1,0 +1,37 @@
+
+.dashboardSection{
+    background-color: rgb(241, 237, 237);
+    height:200vh;
+}
+.dashboardContent{
+   
+   color:white;
+   padding:10px 10px;
+   border-radius: 10px;
+   
+}
+.dashboardContent h2{
+    font-weight: 700;
+    font-size: 45px;
+}
+.dashboardContent p{
+   
+    font-size: 18px;
+}
+.appointmentsDataTable{
+    background-color: #fff;
+    border-radius: 10px;
+    padding:25px;
+}
+.pending{
+    background-color: rgb(236, 83, 83);
+}
+.today{
+    background-color: rgb(9, 165, 61);
+}
+.totalPatient{
+    background-color: rgb(11, 113, 209);
+}
+.totalAppointment{
+    background-color: rgb(228, 15, 139);
+}

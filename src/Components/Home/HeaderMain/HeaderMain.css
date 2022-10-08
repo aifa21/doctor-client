@@ -1,0 +1,35 @@
+
+.headerMain{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap:1.5rem;
+   
+    padding:0 6.5rem;
+}
+
+.headerMain .image{
+    flex:1 1 45rem;
+}
+
+.headerMain .image img{
+    width: 80%;
+}
+
+.headerMain .content{
+    flex:1 1 45rem;
+}
+
+.headerMain .content h3{
+    font-size: 3.5rem;
+    color:var(--black);
+    line-height: 1.8;
+    text-shadow: var(--text-shadow);
+}
+
+.headerMain .content p{
+    font-size: 1.4rem;
+    color:var(--light-color);
+    line-height: 1.8;
+    padding: 1rem 0;
+}

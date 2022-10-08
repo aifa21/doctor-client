@@ -1,0 +1,27 @@
+
+   .blogs{
+    margin-top: 5rem;
+   }
+.blogs .card{
+    border:0;
+    padding:4rem 3.5rem;
+     
+}
+.blogs .card-header{
+    border: 0;
+    background-color: transparent;
+
+
+}
+.blogs .card:hover{
+    background-image: linear-gradient(75deg,#19D3AE,#0fcfec);
+    color:white;
+    transition:  .1s  all ease-in-out;
+}
+
+.blogs .card:hover .card-body{
+    background-image:url(../../../images/Quote_Serif-512\ \(1\).png);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: 70%;
+}

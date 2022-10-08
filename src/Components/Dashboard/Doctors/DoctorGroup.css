@@ -1,0 +1,16 @@
+.card{
+   
+}
+.img-info img{
+    width:100px;
+    border-radius: 50%;
+}
+.doctor-group{
+ border-radius: 10px;
+  padding:10px;
+ 
+   
+}
+.describe p{
+    font-weight: 500;
+}

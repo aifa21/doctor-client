@@ -1,0 +1,107 @@
+.getAppointmentSection{
+      background-image: url(../../images/Mask\ Group\ 1.png);  
+   
+    background-size: cover;
+    background-attachment: fixed;
+}
+.getAppointmentTop{
+    background-color: #f8f9facc;
+    padding:100px 0;
+}
+.getAppointmentBottom{
+    background-color: #fff;
+    padding:60px 0;
+}
+.react-calendar {
+    width: 400px;
+    max-width: 100%;
+    background: white;
+    border: 1px solid white;
+    padding: 40px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.125em;
+    border-radius: 10px;
+}
+.react-calendar button {
+    border-radius: 8px;
+    margin: 8px 5px;
+    padding:8px 8px;
+    background: white;
+    border:1px solid white;
+    outline:none;
+}
+
+.react-calendar button:focus {
+    outline: none;
+    background-color: blue;
+    color:white;
+}
+.appointmentForm-section{
+    background-color: #f8f9facc;
+    padding: 100px 0px;
+}
+.formContent {
+    background: #fff;
+    padding: 40px 50px;
+    border-radius: 10px;
+}
+
+.formContent h1 {
+    color: #1CC7C1;
+    font-size: 32px;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.formContent p {
+    
+    font-size: 32px;
+    font-weight: 600
+    ;
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.formContent input,.formContent select{
+    display:block;
+    width:100%;
+    height:45px;
+    background: #F5F5F5;
+    border: 1px solid #F5F5F5;
+    margin-top: 20px;
+    padding: 0px 12px;
+    border-radius: 8px;
+    color: gray;
+}
+.formContent input:focus,.formContent select:focus{
+    outline:none;
+   
+}
+
+/* treatments */
+
+.treatmentContent{
+    margin-bottom: 40px;
+    text-align: center;
+    border-radius: 10px;
+    padding: 30px 0px;
+    box-shadow: 5px 5px 20px #f5e1e1;
+    
+}
+.treatmentContent:hover{
+    box-shadow:5px 5px 40px #c5b1b1;
+}
+.treatmentContent h4 {
+    color: #1CC7C1;
+    font-size: 26px;
+    margin-bottom: 15px;
+}
+
+.treatmentContent h6 {
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+.treatmentContent p {
+    color: #ADABAB;
+}

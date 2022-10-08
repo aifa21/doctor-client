@@ -1,0 +1,9 @@
+.TableActionBtn {
+    background: #11D0DB;
+    border: 1px solid #11D0DB;
+    padding: 5px 15px;
+    border-radius: 6px;
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+}
